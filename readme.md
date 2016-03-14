@@ -1,6 +1,13 @@
-# Bones
-A Lightweight Wordpress Development Theme
+# BoneSJ 1
+A Wordpress Development Theme derived from Bones (see
+http://themble.com/bones/)
 
+BoneSJ 1 customizations are designed by Steve Jorgensen
+http://stevej.name
+
+----
+
+# Bones
 Bones is designed to make the life of developers easier. It's built
 using HTML5 & has a strong semantic foundation.
 It's constantly growing so be sure to check back often if you are a
