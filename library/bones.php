@@ -175,8 +175,8 @@ function bones_theme_support() {
 	// wp custom background (thx to @bransonwerner for update)
 	add_theme_support( 'custom-background',
 	    array(
-	    'default-image' => '',        // background image default
-	    'default-color' => 'dddddd',  // background color default (dont add the #)
+	    'default-image' => '',    // background image default
+	    'default-color' => '',    // background color default (dont add the #)
 	    'wp-head-callback' => '_custom_background_cb',
 	    'admin-head-callback' => '',
 	    'admin-preview-callback' => ''
